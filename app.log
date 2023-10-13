@@ -1,11 +1,50 @@
-2023-10-11 14:44:22,324 - INFO - File closed
-2023-10-11 14:44:22,324 - WARNING - Jo-Anne Sinclair's salary 112000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
-2023-10-11 14:44:22,324 - WARNING - Jackson Smith's salary 104000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
-2023-10-11 14:44:22,324 - WARNING - Josee Benjamin's salary 112000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
-2023-10-11 14:44:22,324 - WARNING - Stien Pedersen's salary 112000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
-2023-10-11 14:44:22,324 - WARNING - Cheryl Guru's salary 112000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
-2023-10-11 14:44:22,326 - DEBUG - Debug level message.
-2023-10-11 14:44:22,326 - INFO - Info level message.
-2023-10-11 14:44:22,326 - WARNING - warning level message.
-2023-10-11 14:44:22,326 - ERROR - error level message.
-2023-10-11 14:44:22,326 - CRITICAL - critical level message.
+2023-10-13 09:35:14,867 - INFO - File closed
+2023-10-13 09:35:14,868 - WARNING - Jo-Anne Sinclair's salary 168000.0 is currently above reccomended maximum 120000.
+2023-10-13 09:35:14,868 - WARNING - Jo-Anne Sinclair's salary 168000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Jackson Smith's salary 156000.0 is currently above reccomended maximum 120000.
+2023-10-13 09:35:14,868 - WARNING - Jackson Smith's salary 156000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Susan Thomas's salary 144000.0 is currently above reccomended maximum 120000.
+2023-10-13 09:35:14,868 - WARNING - Susan Thomas's salary 144000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Richa Kaur's salary 132000.0 is currently above reccomended maximum 120000.
+2023-10-13 09:35:14,868 - WARNING - Richa Kaur's salary 132000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Josee Benjamin's salary 168000.0 is currently above reccomended maximum 120000.
+2023-10-13 09:35:14,868 - WARNING - Josee Benjamin's salary 168000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Vincent Grey's salary 120000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Rupa Kharki (she/her/hers)'s salary 114000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Xun Kuang's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Stien Pedersen's salary 168000.0 is currently above reccomended maximum 120000.
+2023-10-13 09:35:14,868 - WARNING - Stien Pedersen's salary 168000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Sandra Bear's salary 120000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,868 - WARNING - Gus Blue's salary 120000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,869 - WARNING - Sam Kong's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,869 - WARNING - Valentine Smith's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,869 - WARNING - Mariya Kaperski's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,870 - WARNING - Abd al-Hamid Alami's salary 102000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,870 - WARNING - Victoria Gray's salary 102000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,870 - WARNING - Cheryl Guru's salary 168000.0 is currently above reccomended maximum 120000.
+2023-10-13 09:35:14,870 - WARNING - Cheryl Guru's salary 168000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,870 - WARNING - Jean Ngoy's salary 102000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,870 - WARNING - Kris Gold's salary 120000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Isaac Smith's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Payton Frost's salary 102000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Samantha Nettle's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Yolanda Ferreira's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Samir Hassan's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Yuna Aikawa's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Jonathan Carberry's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Roland Wei's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Pran Singh's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Linda Analyst's salary 102000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Esra Sedge's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Pranee Tan's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Karmen Spruce's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Haydar Katirci's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Jill Harkness's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Tim Morrison's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Aleksandr Milosevic's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,871 - WARNING - Jim Wingnut's salary 108000.0 will be above the recommended maximum of 120000with the planned 0.2 increase.
+2023-10-13 09:35:14,872 - DEBUG - Debug level message.
+2023-10-13 09:35:14,872 - INFO - Info level message.
+2023-10-13 09:35:14,873 - WARNING - warning level message.
+2023-10-13 09:35:14,873 - ERROR - error level message.
+2023-10-13 09:35:14,873 - CRITICAL - critical level message.
